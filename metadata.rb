@@ -1,6 +1,6 @@
 name              "laravel"
-maintainer        "Mathias Hansen"
-maintainer_email  "me@codemonkey.io"
+maintainer        "Kyle Nehring"
+maintainer_email  "knehring@gmail.com"
 description       "Main entry point for installing and configuring a Laravel 4 stack"
 version           "1.0.0"
 
