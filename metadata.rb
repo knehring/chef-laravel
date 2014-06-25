@@ -12,7 +12,6 @@ depends "apt"
 depends "openssl"
 depends "mysql"
 depends "chef-php-extra"
-depends "npm"
 
 %w{ debian ubuntu }.each do |os|
   supports os
